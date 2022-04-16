@@ -36,7 +36,7 @@ Install discord-clone with npm
     
 ## Demo
 
-https://uniswap-flame.vercel.app/
+https://discord-clone-sigma-six.vercel.app/
 
 
 ## Tech Stack
